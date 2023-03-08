@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "infralog_1",
+        "displayName": "infralog_1",
+        "guid": "infralog_1_9DBC6DDEAA9B4649B964E6FF049ED156",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "infralog_1",
+        "supportUrl": "https://landing.infracommerce.com.br/infradata",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "5.1.0",
+    "author": {
+        "name": "Bruno Wakiyama",
+        "email": "bh.wakiyama@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/infralog_1.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
